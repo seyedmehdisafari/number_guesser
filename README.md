@@ -1,9 +1,15 @@
-# Number Guesser Game - Solution B
+# Number Guesser Game
 
 ## Overview
 
 This solution provides a modular approach to the Number Guesser Game. The game generates a random number between 1 and 100, and the user is prompted to guess this number. For each incorrect guess, the user receives a hint and their score is reduced.
 
+
+## Number Guesser Game - solution A
+- This solution involves a simple Python script that generates a random number and asks the player to guess it. The program gives feedback on each guess, such as “too high” or “too low,” until the player guesses the correct number.
+
+
+## Number Guesser Game - Solution B
 ## Directory Structure
 
 ```
